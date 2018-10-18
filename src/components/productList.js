@@ -1,6 +1,6 @@
-import React, Component { Component } from 'react';
+import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import BuyButton from './BuyButton';
+import BuyButton from './buyButton';
 
 class ProductList extends Component {
     constructor(props) {

@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { Route, Switch } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 class BuyButton extends Component {
     constructor(props) {

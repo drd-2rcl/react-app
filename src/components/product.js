@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import BuyButton from './BuyButton';
+import BuyButton from './buyButton'
 
 class Product extends Component {
     constructor(props) {
